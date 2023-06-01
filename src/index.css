@@ -15,17 +15,5 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
-
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-.test {
-  border-radius: 50%;
-  height: 250px;
-  width: 250px;
-  object-fit: cover;
+ 
 }

@@ -1,9 +1,10 @@
 import React from 'react'
+import CrewComp from '../components/CrewComp'
 
 const Crew = () => {
   return (
-    <div>
-        Page 3333333
+    <div className='text-white text-3xl'>
+      <CrewComp />
     </div>
   )
 }

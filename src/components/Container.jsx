@@ -1,9 +1,10 @@
+
 const Container = () => {
   return (
-    <div className='flex mt-12 m-6 p-6'>
+    <div className='flex m-6 p-6'>
       <div className='w-2/3 flex-col m-6 p-6 gap-4 h-[600px]'>
         <div className='flex items-center flex-col mt-24 gap-8'>
-        <h3 className='text-xl text-white font-serif'>SO, YOU WANT TO TRAVEL TO</h3>
+        <h3 className='text-2xl text-white tracking-wide font-serif'>SO, YOU WANT TO TRAVEL TO</h3>
         <h1 className='text-9xl ml-8 text-white font-serif'>SPACE</h1>
         <p className='text-lg tracking-widest mt-4 ml-8 text-white'>Let's face it; if you want to go to space, you might as well <br />
           qenuinely go to outer space and not,hover kind of on the <br />

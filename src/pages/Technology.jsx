@@ -2,7 +2,9 @@ import React from 'react'
 
 const Technology = () => {
   return (
-    <div>PAGE4</div>
+    <div>
+      <button>TEST</button>
+    </div>
   )
 }
 
